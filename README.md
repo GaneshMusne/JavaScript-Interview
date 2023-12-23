@@ -119,3 +119,13 @@ if the method return true then it is array.
 if not it is not a array.
 
 ---
+
+## Important Topics of JS
+
+1. Spread operator
+2. map(), reduce(), flitter() functions
+3. Array methods
+4. String methods
+5. objects and it's methods
+6. Different types of functions
+7. Why JS functions are first class citizens?
