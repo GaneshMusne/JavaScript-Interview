@@ -103,7 +103,7 @@ button.addEventListener(event, function);
 ```
 **Different Types of Events**
 
-[<img src="./images/eventListenerTypes.png" width="400"/>](./images/eventListenerTypes.png)
+[<img src="./eventListenerTypes.png" width="400"/>](./images/eventListenerTypes.png)
 
 ---
 
