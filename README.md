@@ -1,5 +1,5 @@
 # JavaScript Interview Questions
-### <span style="color:orange">How do you define a function in JS?</span>
+### <span style="color:#0d6efd">How do you define a function in JS?</span>
 ---
 We can use the function keyword followed by function name with a list of parameters to function, enclosed in parentheses and separated by commas. The javascript statements that define the function, enclosed in curly braces.
 
@@ -9,7 +9,7 @@ function functionName(arguments){
 }
 ```
 --- 
-### <span style="color:orange">How do you create an object from class in JS?</span>
+### <span style="color:#0d6efd">How do you create an object from class in JS?</span>
 ---
 **Using the new keyword** This is the most common way to create an object from a class. The new keyword creates a new instance of the class and assigns it to a variable. For example, the following code creates a new instance of the Person class and assigns it to the person variable. For example consider a person class using new key word we can create new instance of the person class
 
@@ -37,7 +37,7 @@ const person = Object.create(personPrototype);
 ```
 ---
 
-### <span style="color:orange">How do you declare a string variable in JS?</span>
+### <span style="color:#0d6efd">How do you declare a string variable in JS?</span>
 ---
 We can simply use **let**, **var** and **const** these keywords followed by variable name equal to Double quotation mark.
 
@@ -53,7 +53,7 @@ in nut shell --> Strings can be created as primitives, from string literals, or 
 
 ---
 
-### <span style="color:orange">Which keyword is used to declare block-scoped variable in ES6?</span>
+### <span style="color:#0d6efd">Which keyword is used to declare block-scoped variable in ES6?</span>
 ---
 **let** allows variables to be re-assigned, making it suitable for situations where you need to change the value of a variable within a block of code.
 ```
@@ -69,12 +69,12 @@ In this example, the variable y is declared with the let keyword, so it is only 
 let is a great way to improve the readability and maintainability of your code. It helps to avoid errors by preventing variables from being accessed from outside of the scope where they are declared.
 
 ---
-### <span style="color:orange">what is the purpose of the ... operator in ES6?</span>
+### <span style="color:#0d6efd">what is the purpose of the ... operator in ES6?</span>
 ---
 The **...** operator used to speared the array elements. **It can be used to copy an array, merge arrays, or add elements to an array.** 
 
 ---
-### <span style="color:orange">Which keyword is used to refer to current instance of class inside its method?</span>
+### <span style="color:#0d6efd">Which keyword is used to refer to current instance of class inside its method?</span>
 ---
 
 **this** keyword is used to refer current instance of the class.
@@ -93,7 +93,7 @@ class Great {
 In the above example, the **this** keyword is used to access the name instance variable in the greet() method. The this keyword is also used to invoke the greet() method on the current instance of the Person class. 
 
 ---
-### <span style="color:orange">How do you add an event listener to a HTML element in JS?</span>
+### <span style="color:#0d6efd">How do you add an event listener to a HTML element in JS?</span>
 ---
 To add an event listener to a HTML element in JS, you can use the addEventListener() method. The addEventListener() method takes two parameters: the type of event to listen for and the function to run when the event occurs.
 For example, to add a click event listener to a button, you would use the following code:
@@ -107,7 +107,7 @@ button.addEventListener(event, function);
 
 ---
 
-### <span style="color:orange">how to check a variable is array or not in javascript?</span>
+### <span style="color:#0d6efd">how to check a variable is array or not in javascript?</span>
 
 ---
 ```
