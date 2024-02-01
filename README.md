@@ -1,4 +1,4 @@
-# JavaScript Interview Questions
+# JavaScript
 ### <span style="color:#0d6efd">How do you define a function in JS?</span>
 ---
 We can use the function keyword followed by function name with a list of parameters to function, enclosed in parentheses and separated by commas. The javascript statements that define the function, enclosed in curly braces.
